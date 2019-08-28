@@ -1,3 +1,3 @@
 import React, { Fragment } from 'react';
 
-export default () => <Fragment />;
+export default () => <Fragment>Spinnin</Fragment>;
